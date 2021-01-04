@@ -13,7 +13,7 @@ The purpose of this analysis was to find out which kickstarter campaigns were su
 
 Below is the line chart I created to visualize the relationship between the outcome categories of  "Successful", "Failed", or "Canceled" projects on the x-axis and the month representative of their launch date on the y- axis.
 
-![Theather_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+![Theather_Outcomes_vs_Launch](https://github.com/MarielaKaradzhova/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -46,7 +46,7 @@ The next step was to populate the "Total Projects" column with the number of "Su
 
 Finally, I created a line chart which is inserted below, to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of "Successful", "Failed", or "Canceled" projects on the y-axis.
 
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/MarielaKaradzhova/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -66,4 +66,3 @@ The results of the analysis on Outcomes based on Goals show that there is a 50% 
 
 - What are some limitations of this dataset?
 One limitation of this dataset is the source of kickstarter campaings. It would be helpful to collect data from sources such as social media which may influence the results from the analysis above. 
-?
